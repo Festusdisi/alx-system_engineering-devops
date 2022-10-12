@@ -1,1 +1,1 @@
-create a script that prints "hello user", where user is the Linux user
+create a script that counts the number of directories in the PATH
