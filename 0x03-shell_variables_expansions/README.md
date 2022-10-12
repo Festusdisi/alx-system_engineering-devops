@@ -1,1 +1,1 @@
-create a script that lists environment variables
+Read me file
