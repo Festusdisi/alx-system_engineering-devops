@@ -1,1 +1,1 @@
-dispay the content of /etc/passwd /etc/hosts
+last lines of a file
