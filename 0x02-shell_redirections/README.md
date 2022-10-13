@@ -1,1 +1,1 @@
-write a script that prints "Hello, World"
+display the content of the /etc/passwd file
